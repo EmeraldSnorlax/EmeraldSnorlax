@@ -1,6 +1,7 @@
 ```ts
 // rain.ts
 
+
 class Rain extends Human {
 
   username: string = 'EmeraldSnorlax';
