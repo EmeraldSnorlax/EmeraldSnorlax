@@ -1,8 +1,28 @@
+```ts
+// rain.ts
 
-im an idiot that writes things that work 100% of the time, 13% of the time
+class Rain extends Human {
+  username: string = 'EmeraldSnorlax';
 
-my website: https://snorlax.cc/
+  pronouns: string = 'they/them'
 
-public key: https://keyserver.ubuntu.com/pks/lookup?search=EmeraldSnorlax&fingerprint=on&op=index
+  skills: string[] = [
+    'TypeScript',
+    'JavaScript',
+    'CSS',
+    'TailwindCSS',
+    'Svelte',
+    'Express.js',
+    'Linux',
+  ];
 
-email: `${my username in lowercase} ${shift + 2} disroot ${dot} org` 
+  email: string = [[this.username.toLowerCase(), 'disroot'].join('@'), 'org'].join('.');
+
+  website: string = 'https://snorlax.cc/';
+
+  publicKey: string = 'https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x57930ce70d3423b4';
+}
+
+export default Rain;
+
+```
