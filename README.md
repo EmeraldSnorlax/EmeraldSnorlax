@@ -26,3 +26,7 @@ class Rain extends Human {
 export default Rain;
 
 ```
+
+[website](https://snorlax.cc/) | [public key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x57930ce70d3423b4)
+
+email obfuscated to prevent scraping
