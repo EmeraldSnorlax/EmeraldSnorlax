@@ -25,6 +25,6 @@ export default Rain;
 
 ```
 
-[website](https://snorlax.cc/) | [public key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x57930ce70d3423b4)
+[website](https://snorlax.cc/) | [public key](https://snorlax.cc#pgp) | [email](https://snorlax.cc#about)
 
-email obfuscated to prevent scraping
+
