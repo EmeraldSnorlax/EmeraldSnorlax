@@ -29,6 +29,5 @@ export default Rain;
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=EmeraldSnorlax&show_icons=true&theme=monokai)
-
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmeraldSnorlax&theme=monokai&layout=compact)
 
