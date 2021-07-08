@@ -17,7 +17,7 @@ class Rain extends Human {
   ];
 
   email: string = [[this.username.toLowerCase(), 'disroot'].join('@'), 'org'].join('.');
-  website: string = 'https://snorlax.cc/';
+  website: string = 'https://snorlax.sh/';
   publicKey: string = 'https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x57930ce70d3423b4';
 }
 
@@ -25,7 +25,7 @@ export default Rain;
 
 ```
 
-[website](https://snorlax.cc/) | [public key](https://snorlax.cc#pgp) | [email](https://snorlax.cc#about)
+[website](https://snorlax.cc/) | [public key](https://snorlax.sh#pgp) | [email](https://snorlax.shc#about)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=EmeraldSnorlax&show_icons=true&theme=monokai)
