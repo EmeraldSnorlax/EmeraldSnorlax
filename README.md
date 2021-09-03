@@ -25,7 +25,7 @@ export default Rain;
 
 ```
 
-[website](https://snorlax.sh/) | [public key](https://snorlax.sh#pgp) | [email](https://snorlax.shc#about)
+[website](https://snorlax.sh/) | [public key](https://snorlax.sh#pgp) | [email](https://snorlax.sh#about)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=EmeraldSnorlax&show_icons=true&theme=monokai)
