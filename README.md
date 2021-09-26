@@ -4,7 +4,6 @@
 class Rain extends Human {
 
   username: string = 'EmeraldSnorlax';
-  pronouns: string = 'they/them';
   
   skills: string[] = [
     'TypeScript',
@@ -24,9 +23,6 @@ class Rain extends Human {
 export default Rain;
 
 ```
-
-[website](https://snorlax.sh/) | [public key](https://snorlax.sh#pgp) | [email](https://snorlax.sh#about)
-
 
 ![stats](https://github-readme-stats.vercel.app/api?username=EmeraldSnorlax&show_icons=true&theme=monokai)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmeraldSnorlax&theme=monokai&layout=compact)
